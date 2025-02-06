@@ -1,6 +1,5 @@
-- 👋 Hi, I’m fresher at LJ University
+- 👋 Hi, I’m student at LJ University
 - 🌱 I’m currently learning so many languages and data analysis
-- 💞️ I’m looking for an internship
 - 📫 How to reach me from my ig : @diya_the_wonder_girl_
 
 <!---
