@@ -42,3 +42,13 @@ Hello! I am a final-year Computer Science and Engineering student at LJ Universi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)  
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge)  
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=diya223&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diya223&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diya223&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=diya223&color=blue)
+
+
