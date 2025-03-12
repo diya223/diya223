@@ -1,5 +1,1 @@
-- 👋 Hi, I’m student at LJ University
-<!---
-diya223/diya223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I am a final-year Computer Science and Engineering student at LJ University, currently in my 8th semester. Passionate about software development and technology, I am gaining hands-on experience through my internship at Dweck Enterprise Pvt Ltd. I enjoy solving complex problems, exploring new technologies, and working on innovative projects. Always eager to learn and grow, I am looking forward to opportunities that allow me to apply my skills and contribute effectively to the tech industry.
