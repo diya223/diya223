@@ -24,7 +24,7 @@ Hello! I am a final-year Computer Science and Engineering student at LJ Universi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diya223&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diya223&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=diya223&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diya223&color=blue)
 
