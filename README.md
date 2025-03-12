@@ -5,11 +5,7 @@ Hello! I am a final-year Computer Science and Engineering student at LJ Universi
 ## 🚀 Tech Stack
 
 ### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)  
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)  
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)  
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)  ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)  ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)  
 
 ### 🌐 Full Stack/Web Development  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)  
